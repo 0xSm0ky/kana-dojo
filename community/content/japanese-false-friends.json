@@ -269,10 +269,10 @@
   "explanation": "コンセント means electrical outlet. (Set 3)",
   "example": "コンセントが足りないので延長コードを使います。"
 },
-    {
-    "termA": "アニメ (anime)",
-    "termB": "anime (English usage)",
-    "explanation": "In Japanese it can refer to animation in general. (Set 4)",
-    "example": "子どものころからアニメが好きだ。"
-  }
+{
+  "termA": "アニメ (anime)",
+  "termB": "anime (English usage)",
+  "explanation": "In Japanese it can refer to animation in general. (Set 4)",
+  "example": "子どものころからアニメが好きだ。"
+}
 ]
