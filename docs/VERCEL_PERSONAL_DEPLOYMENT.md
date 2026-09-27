@@ -93,6 +93,12 @@ On your personal `deploy` branch, remove the entire `crons` array from `vercel.j
  "functions": {
    "app/api/process-bug-reports/route.ts": {
      "maxDuration": 60
+   },
+   "app/api/webhooks/tally/bug-report/route.ts": {
+     "maxDuration": 30
+   },
+   "app/api/**/*.ts": {
+     "maxDuration": 10
    }
  },
 -"crons": [

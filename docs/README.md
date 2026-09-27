@@ -4,23 +4,23 @@ Welcome to the KanaDojo documentation. This index provides quick access to all p
 
 ## Getting Started
 
-| Document                                                      | Description                              |
-| ------------------------------------------------------------- | ---------------------------------------- |
-| [Contributing Guide](../CONTRIBUTING.md)                      | How to set up the project and contribute |
-| [Troubleshooting](./TROUBLESHOOTING.md)                       | Common issues and solutions              |
-| [Personal Vercel Deployment](./VERCEL_PERSONAL_DEPLOYMENT.md) | Deploy a personal fork on Vercel Hobby   |
+| Document                                 | Description                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [Contributing Guide](../CONTRIBUTING.md) | How to set up the project and contribute |
+| [Troubleshooting](./TROUBLESHOOTING.md)  | Common issues and solutions              |
 
 ## Architecture & Development
 
-| Document                                      | Description                                                |
-| --------------------------------------------- | ---------------------------------------------------------- |
-| [Architecture](./ARCHITECTURE.md)             | Project structure, patterns, and conventions               |
-| [UI Design](./UI_DESIGN.md)                   | Theming system, styling guidelines, and component patterns |
-| [Performance](./PERFORMANCE_OPTIMIZATIONS.md) | Dev server and build optimizations                         |
-| [Audio](./AUDIO_OPTIMIZATION.md)              | Audio system implementation details                        |
-| [GitHub Workflows](./GITHUB_WORKFLOWS.md)     | CI/CD pipeline documentation                               |
-| [Vercel Deployment](./VERCEL_DEPLOYMENT.md)   | Deployment process and configuration                       |
-| [i18n Scripts](./I18N_SCRIPTS.md)             | Internationalization tooling documentation                 |
+| Document                                                      | Description                                                |
+| ------------------------------------------------------------- | ---------------------------------------------------------- |
+| [Architecture](./ARCHITECTURE.md)                             | Project structure, patterns, and conventions               |
+| [UI Design](./UI_DESIGN.md)                                   | Theming system, styling guidelines, and component patterns |
+| [Performance](./PERFORMANCE_OPTIMIZATIONS.md)                 | Dev server and build optimizations                         |
+| [Audio](./AUDIO_OPTIMIZATION.md)                              | Audio system implementation details                        |
+| [GitHub Workflows](./GITHUB_WORKFLOWS.md)                     | CI/CD pipeline documentation                               |
+| [Vercel Deployment](./VERCEL_DEPLOYMENT.md)                   | Deployment process and configuration                       |
+| [Personal Vercel Deployment](./VERCEL_PERSONAL_DEPLOYMENT.md) | Deploy a personal fork on Vercel Hobby                     |
+| [i18n Scripts](./I18N_SCRIPTS.md)                             | Internationalization tooling documentation                 |
 
 ## Features
 

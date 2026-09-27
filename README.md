@@ -26,6 +26,7 @@
 
 [![Vercel OSS Program](https://img.shields.io/badge/Vercel-OSS%20Program-black?style=for-the-badge&logo=vercel)](https://vercel.com/open-source-program)
 [![Sponsored by Vercel](https://img.shields.io/badge/Sponsored%20by-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/oss)
+
 <!--[![Sponsored by Cossistant](https://cdn.cossistant.com/oss/oss-friends.svg)](https://cossistant.com/open-source-program)-->
 
 [![Live Demo](https://img.shields.io/badge/demo-kanadojo.com-blue?style=for-the-badge)](https://kanadojo.com)
