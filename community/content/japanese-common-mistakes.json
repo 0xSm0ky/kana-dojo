@@ -243,5 +243,10 @@
     "wrong": "もし雨が降ります、行きません。",
     "correct": "もし雨が降ったら、行きません。",
     "explanation": "Conditional needs たら/なら etc. (Pattern set 3)"
-  }
+  },
+{
+  "wrong": "私はお金がありませんです。",
+  "correct": "私はお金がありません。",
+  "explanation": "Negative polite form already complete. (Pattern set 5)"
+}
 ]

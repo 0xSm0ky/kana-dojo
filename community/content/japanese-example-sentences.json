@@ -132,12 +132,6 @@
     "jlpt": "N4"
   },
   {
-    "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
-    "romaji": "Kanojo wa isogashii hazu na noni, itsumo teinei ni henshin shite kureru.",
-    "english": "Even though she must be busy, she always replies politely.",
-    "jlpt": "N2"
-  },
-  {
     "japanese": "もし時間があれば、一緒に復習しませんか。",
     "romaji": "Moshi jikan ga areba, issho ni fukushuu shimasen ka.",
     "english": "If you have time, would you like to review together?",
@@ -172,12 +166,6 @@
     "romaji": "Kare wa Nihon de hataraku tame ni bijinesu nihongo o manande iru.",
     "english": "He studies business Japanese to work in Japan.",
     "jlpt": "N3"
-  },
-  {
-    "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
-    "romaji": "Kanojo wa isogashii hazu na noni, itsumo teinei ni henshin shite kureru.",
-    "english": "Even though she must be busy, she always replies politely.",
-    "jlpt": "N2"
   },
   {
     "japanese": "彼は日本で働くためにビジネス日本語を学んでいる。",
@@ -240,21 +228,27 @@
     "jlpt": "N3"
   },
   {
+    "japanese": "店員さんにおすすめの料理を聞いてみた。",
+    "romaji": "Tenin-san ni osusume no ryouri o kiite mita.",
+    "english": "I asked the staff for recommended dishes.",
+    "jlpt": "N4"
+  },
+  {
+    "japanese": "漢字の意味を文脈で推測する力が大切だ。",
+    "romaji": "Kanji no imi o bunmyaku de suisoku suru chikara ga taisetsu da.",
+    "english": "Inferring kanji meaning from context is important.",
+    "jlpt": "N2"
+  }, 
+  {
     "japanese": "彼女は忙しいはずなのに、いつも丁寧に返信してくれる。",
     "romaji": "Kanojo wa isogashii hazu na noni, itsumo teinei ni henshin shite kureru.",
     "english": "Even though she must be busy, she always replies politely.",
     "jlpt": "N2"
   },
   {
-  "japanese": "店員さんにおすすめの料理を聞いてみた。",
-  "romaji": "Tenin-san ni osusume no ryouri o kiite mita.",
-  "english": "I asked the staff for recommended dishes.",
-  "jlpt": "N4"
-    },
-  {
-    "japanese": "漢字の意味を文脈で推測する力が大切だ。",
-    "romaji": "Kanji no imi o bunmyaku de suisoku suru chikara ga taisetsu da.",
-    "english": "Inferring kanji meaning from context is important.",
-    "jlpt": "N2"
+    "japanese": "日本語を勉強し始めて三か月です。",
+    "romaji": "Nihongo o benkyou shihajimete sankagetsu desu.",
+    "english": "It has been three months since I started studying Japanese.",
+    "jlpt": "N5"
   }
 ]
