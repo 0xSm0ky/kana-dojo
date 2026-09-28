@@ -334,5 +334,12 @@
   "english": "because",
   "region": "Hiroshima",
   "note": "Common causal ending. (Set 2)"
-  }
+  },
+{
+  "dialect": "〜やねん",
+  "standardJapanese": "〜なんだ",
+  "english": "it is that...",
+  "region": "Kansai",
+  "note": "Explanatory ending in conversation. (Set 1)"
+}
 ]
