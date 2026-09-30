@@ -581,5 +581,16 @@
     "Yatai"
   ],
   "correctIndex": 0
+},
+{
+  "question": "Which city is famous for the Gion Matsuri festival?",
+  "difficulty": "easy",
+  "answers": [
+    "Kyoto",
+    "Sendai",
+    "Sapporo",
+    "Kobe"
+  ],
+  "correctIndex": 0
 }
 ]
