@@ -317,7 +317,6 @@
     "mainColor": "oklch(65.0% 0.195 40.0 / 1)",
     "secondaryColor": "oklch(75.0% 0.145 85.0 / 1)"
   },
-
   {
     "id": "shinkansen-speed",
     "backgroundColor": "oklch(22.0% 0.035 240.0 / 1)",
@@ -343,10 +342,10 @@
     "secondaryColor": "oklch(70.0% 0.090 210.0 / 1)"
   },
   {
-  "id": "sakurajima-ash",
-  "backgroundColor": "oklch(22.0% 0.025 270.0 / 1)",
-  "mainColor": "oklch(65.0% 0.170 25.0 / 1)",
-  "secondaryColor": "oklch(58.0% 0.055 260.0 / 1)"
+    "id": "sakurajima-ash",
+    "backgroundColor": "oklch(22.0% 0.025 270.0 / 1)",
+    "mainColor": "oklch(65.0% 0.170 25.0 / 1)",
+    "secondaryColor": "oklch(58.0% 0.055 260.0 / 1)"
   },
 {
   "id": "lucky-bamboo",
