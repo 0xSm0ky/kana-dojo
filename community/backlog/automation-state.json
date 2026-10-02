@@ -1,7 +1,7 @@
 {
-  "lastType": "regionalDialect",
-  "lastRun": "2026-10-02T14:57:31.828Z",
-  "totalIssuesCreated": 20248,
+  "lastType": "falseFriend",
+  "lastRun": "2026-10-02T15:01:03.644Z",
+  "totalIssuesCreated": 20249,
   "consecutiveNoIssueRuns": 0,
-  "lastIssueCreatedAt": "2026-10-02T14:57:31.828Z"
+  "lastIssueCreatedAt": "2026-10-02T15:01:03.644Z"
 }
