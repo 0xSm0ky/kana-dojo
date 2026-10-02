@@ -342,32 +342,11 @@
   "region": "Kansai",
   "note": "Explanatory ending in conversation. (Set 1)"
 },
-  {
-  "dialect": "〜ばい",
-  "standardJapanese": "〜だよ",
-  "english": "sentence ending",
-  "region": "Fukuoka",
-  "note": "Assertive friendly ending. (Set 6)"
-},
-  {
-  "dialect": "〜ばい",
-  "standardJapanese": "〜だよ",
-  "english": "sentence ending",
-  "region": "Fukuoka",
-  "note": "Assertive friendly ending. (Set 3)"
-},
 {
   "dialect": "にふぇーでーびる",
   "standardJapanese": "ありがとうございます",
   "english": "thank you",
   "region": "Okinawa",
-  "note": "Okinawan gratitude expression. (Set 5)"
-},
-{
-  "dialect": "〜だがや",
-  "standardJapanese": "〜だよ",
-  "english": "sentence ending",
-  "region": "Nagoya",
-  "note": "Strong Nagoya marker. (Set 1)"
+  "note": "Okinawan gratitude expression. (Set 4)"
 }
 ]
