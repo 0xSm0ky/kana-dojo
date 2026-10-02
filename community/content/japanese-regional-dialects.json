@@ -355,5 +355,12 @@
   "english": "sentence ending",
   "region": "Fukuoka",
   "note": "Assertive friendly ending. (Set 3)"
+},
+{
+  "dialect": "にふぇーでーびる",
+  "standardJapanese": "ありがとうございます",
+  "english": "thank you",
+  "region": "Okinawa",
+  "note": "Okinawan gratitude expression. (Set 5)"
 }
 ]
