@@ -1,10 +1,11 @@
-[{
-  "japanese": "マママママ",
-  "romaji": "Mama mama mama",
-  "english": "Mama mama mama.",
-  "anime": "One Piece",
-  "character": "Charlotte Linlin (Big Mom)"
-},
+[
+  {
+    "japanese": "マママママ",
+    "romaji": "Mama mama mama",
+    "english": "Mama mama mama.",
+    "anime": "One Piece",
+    "character": "Charlotte Linlin (Big Mom)"
+  },
   {
     "japanese": "人の夢は終わらねぇ！",
     "romaji": "Hito no yume wa owaranee!",
@@ -543,5 +544,12 @@
     "english": "Ora ora ora ora ora! (alt wording 8) (alt wording 60)",
     "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
     "character": "Jotaro Kujo"
+  },
+  {
+    "japanese": "ブチャラティ、来た！",
+    "romaji": "Bucharati, kita!",
+    "english": "Bucciarati is here! (alt wording 17) (alt wording 69)",
+    "anime": "JoJo's Bizarre Adventure: Golden Wind",
+    "character": "Narancia Ghirga"
   }
 ]
