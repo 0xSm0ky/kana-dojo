@@ -341,5 +341,19 @@
   "english": "it is that...",
   "region": "Kansai",
   "note": "Explanatory ending in conversation. (Set 1)"
+},
+{
+  "dialect": "にふぇーでーびる",
+  "standardJapanese": "ありがとうございます",
+  "english": "thank you",
+  "region": "Okinawa",
+  "note": "Okinawan gratitude expression. (Set 4)"
+},
+{
+  "dialect": "〜じゃけぇ",
+  "standardJapanese": "〜だから",
+  "english": "because",
+  "region": "Hiroshima",
+  "note": "Common causal ending. (Set 5)"
 }
 ]
