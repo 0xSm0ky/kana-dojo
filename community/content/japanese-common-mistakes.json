@@ -263,5 +263,15 @@
     "id": 279,
     "mistake": "Using wa instead of ga",
     "correction": "Use ga for new information"
-  }
+  },
+  {
+  "wrong": "日本語をわかります。",
+  "correct": "日本語がわかります。",
+  "explanation": "わかる takes が. (Pattern set 3)"
+},
+  {
+  "wrong": "日本へ旅行を行きたい。",
+  "correct": "日本へ旅行に行きたい。",
+  "explanation": "Use に行く for purpose. (Pattern set 3)"
+}
 ]
